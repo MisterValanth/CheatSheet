@@ -8,6 +8,12 @@
 | **mem:**  |
 | **swap:** |
 
+total = total memory on the server
+used = memory currently in use on the server
+free = unused memory
+cached = memory used for cache
+available = memory available if there is more memory required than currently used
+
 ## different format
 - `free -b` (bytes)
 - `free -m` (megabytes)
@@ -21,4 +27,4 @@
 | `free -l`        | display high and low memory size statistics |
 
 ---
-Version v1
+Version v1.1
