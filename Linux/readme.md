@@ -1,5 +1,5 @@
 # Linux
 Handy commands listed by theme.
 
-## Memory
-- [free](/Linux/free.md)
+## Hardware
+- [free](/Linux/Hardware/free.md)
