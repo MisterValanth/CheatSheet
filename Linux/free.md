@@ -9,9 +9,9 @@
 | **swap:** |
 
 ## different format
-`free -b` (bytes)
-`free -m` (megabytes)
-`free -g` (gigabytes)
+- `free -b` (bytes)
+- `free -m` (megabytes)
+- `free -g` (gigabytes)
 
 ## interesting options
 | Option           | Function                                    |
@@ -19,3 +19,6 @@
 | `free -t`        | total memory                                |
 | `free -s <time>` | refresh RAM at <time> interval              |
 | `free -l`        | display high and low memory size statistics |
+
+---
+Version v1
