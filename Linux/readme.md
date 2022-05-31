@@ -1,11 +1,14 @@
 # Linux
 Handy commands listed by theme.
 
-## Hardware
+## File commands
+- [ls](/Linux/File/ls.md)
+
+## Hardware commands
 - [free](/Linux/Hardware/free.md)
 
-## Processes
+## Process commands
 - [top](/Linux/Processes/top.md)
 
-## Users and Groups
+## Users and Group commands
 - [usermod](/Linux/Users_And_Groups/usermod.md)
