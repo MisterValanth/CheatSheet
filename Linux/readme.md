@@ -3,6 +3,7 @@ Handy commands listed by theme.
 
 ## File commands
 - [ls](/Linux/Files/ls.md)
+- [pwd](/Linux/Files/pwd.md)
 
 ## Hardware commands
 - [free](/Linux/Hardware/free.md)
